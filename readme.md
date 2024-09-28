@@ -1,7 +1,3 @@
-Here’s an updated version of your README file with the section on how to run test cases added:
-
----
-
 # Todo Management RESTful API
 
 This is a RESTful API built with Node.js and Express.js for managing todo lists. It allows users to perform CRUD (Create, Read, Update, Delete) operations on todos, with optional features like data validation, pagination, and authentication.
